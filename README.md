@@ -1,5 +1,7 @@
-# libs
-
+# DỰ ÁN PHẦM MỀM QUẢN LÝ FILM LUMIERE
+```
+DỰ ÁN PHẦM MỀM QUẢN LÝ FILM LUMIERE là dự án quản lý user , quản lý video tiện lợi hơn cho người dùng 
+```
 ## Config jsp 
 ```
 spring.mvc.view.prefix: /WEB-INF/view/
